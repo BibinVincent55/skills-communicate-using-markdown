@@ -5,7 +5,7 @@ This is the headers mostly used
 ### Step 2: Add an image
  Image of Spider Man 
 
-![Spider Man](https://static.wikia.nocookie.net/spidermanps4/images/d/d4/Marvel%27s_Spider-Man_front_cover_%28US%29.png/revision/latest?cb=20201003182432)
+![Spider Man](https://www.videogameschronicle.com/files/2020/11/Spider-Man-Remastered-h-scaled.jpg)
 ### Step 3: Add a code example
 
 ```
