@@ -17,4 +17,5 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 - [x] Step 1 is completed
 - [x] Step 2 is completed
 - [x] Step 3 is completed
+
 I made changes to this file
